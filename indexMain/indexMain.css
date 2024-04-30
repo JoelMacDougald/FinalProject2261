@@ -1,0 +1,87 @@
+#studentmenu {
+    border: 1px solid #fff;
+    background-color: #92b4e3;
+    text-align: center; /
+    padding: 0px 0;
+    width: 100%;
+}
+
+#studentmenu li {
+    display: inline-block;
+    margin: 0 0px;
+    padding: 0;
+    width: calc(100% / 3);
+}
+
+#studentmenu li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#studentmenu li a:hover {
+    color: #000;
+}
+
+
+#studentmenu .dropdown-menu {
+    border: 1px solid #fff;
+    background-color: #92b4e3;
+}
+
+#studentmenu .dropdown-menu li {
+    display: block;
+    width: 100%;
+}
+
+#studentmenu .dropdown-menu li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#studentmenu .dropdown-menu li a:hover {
+    color: #000;
+}
+
+#teachermenu {
+    border: 1px solid #fff;
+    background-color: #92b4e3;
+    text-align: center;
+    padding: 0px 0;
+    width: 100%;
+}
+
+#teachermenu li {
+    display: inline-block;
+    margin: 0 0px;
+    padding: 0;
+    width: calc(100% / 4);
+}
+
+#teachermenu li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#teachermenu li a:hover {
+    color: #000;
+}
+
+
+#teachermenu .dropdown-menu {
+    border: 1px solid #fff;
+    background-color: #92b4e3;
+}
+
+#teachermenu .dropdown-menu li {
+    display: block;
+    width: 100%;
+}
+
+#teachermenu .dropdown-menu li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#teachermenu .dropdown-menu li a:hover {
+    color: #000;
+}

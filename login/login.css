@@ -1,0 +1,16 @@
+.form-group {
+    margin-bottom: 10px; /* Add some space between form groups */
+}
+
+.form-control {
+    height: 30px; /* Adjust the height of form controls */
+}
+
+.btn {
+    height: 30px; /* Adjust the height of buttons */
+    padding: 6px 12px; /* Add padding to buttons */
+}
+.login-form {
+    max-width: 400px; /* Adjust the maximum width of the form container */
+    margin: 0 auto; /* Center the form horizontally */
+}

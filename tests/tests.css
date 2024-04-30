@@ -1,0 +1,50 @@
+#containerGradeTest {
+    text-align: center;
+    margin-top: 0px;
+}
+
+#containerChooseTest {
+    text-align: center;
+    margin-top: 0px;
+}
+
+.btn-primary {
+    margin: 10px;
+}
+
+#small-table {
+    max-width: 100px;
+    margin: 0 auto;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.navbar {
+    background-color: #92b4e3;
+    color: #fff;
+    border: none;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #fff;
+}
+
+.navbar-inverse .navbar-brand:hover {
+    color: grey;
+}
+
+
+.navbar a:hover {
+    background-color: grey;
+}
